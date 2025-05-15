@@ -1,0 +1,13 @@
+﻿<Window x:Class="CarSharingApp.CarDetailsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarSharingApp"
+        xmlns:viewmodels="clr-namespace:CarSharingApp.ViewModels"
+        mc:Ignorable="d"
+        Title="CarDetailsWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Арендовать" Click="RentButton_Click" Width="120" Height="30" />
+    </Grid>
+</Window>

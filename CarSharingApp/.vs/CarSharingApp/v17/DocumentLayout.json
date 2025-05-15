@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\verificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\verificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\supportwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\supportwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\supportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\supportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\newpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\newpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\newpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\newpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|c:\\users\\yadib\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\carsharingapp\\carsharingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\forgotpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\forgotpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\cardetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\cardetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\cardetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\cardetailswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|c:\\users\\yadib\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\carsharingapp\\carsharingapp\\adminwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\adminwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\viewmodels\\admincarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\viewmodels\\admincarsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\supportchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\supportchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\carbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\carbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\carsharingapp\\verificationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FFC7B496-785F-45D2-8A39-8B580DF6F47E}|CarSharingApp\\CarSharingApp.csproj|solutionrelative:carsharingapp\\verificationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\CarDetailsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarSharingApp\\ViewModels\\CarDetailsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarSharingApp\\CarEditWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarSharingApp\\CarEditWindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\RelayCommand.cs",
+              "RelativeToolTip": "CarSharingApp\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:18:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\SupportWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\SupportWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\SupportWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\SupportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:40:52.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\SupportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\SupportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\SupportWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\SupportWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:51:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\UserWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T20:42:07.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\UserWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\UserWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:42:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerificationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\VerificationWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\VerificationWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\VerificationWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\VerificationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:13:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Logger.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Logger.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Logger.cs",
+              "RelativeToolTip": "CarSharingApp\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:14:38.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminCarsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\AdminCarsViewModel.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\ViewModels\\AdminCarsViewModel.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\AdminCarsViewModel.cs",
+              "RelativeToolTip": "CarSharingApp\\ViewModels\\AdminCarsViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:04:22.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\User.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:01:16.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupportChat.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\SupportChat.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\SupportChat.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\SupportChat.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\SupportChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:02:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "CarSharingApp\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:05:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\NewPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\NewPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\NewPasswordWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\NewPasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:17:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewPasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\NewPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\NewPasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\NewPasswordWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\NewPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:17:33.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "CarSharingApp\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:03:45.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\CarDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\ViewModels\\CarDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\CarDetailsViewModel.cs",
+              "RelativeToolTip": "CarSharingApp\\ViewModels\\CarDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:55:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\App.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\App.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\App.xaml",
+              "RelativeToolTip": "CarSharingApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:29:46.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "CarSharingApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:02:34.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:54:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\MainWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T19:54:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ForgotPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\ForgotPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ForgotPasswordWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\ForgotPasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:17:16.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ForgotPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\ForgotPasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\ForgotPasswordWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\ForgotPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:14:02.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Rental.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\Rental.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:02:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Payment.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:02:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CarEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\CarEditWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\CarEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T22:41:13.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CarEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\CarEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarEditWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\CarEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:41:22.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\packages.config",
+              "RelativeDocumentMoniker": "CarSharingApp\\packages.config",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\packages.config",
+              "RelativeToolTip": "CarSharingApp\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T22:36:48.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarDetailsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\CarDetailsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarDetailsWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\CarDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:53:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarDetailsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarDetailsWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\CarDetailsWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\CarDetailsWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\CarDetailsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T22:53:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\App.config",
+              "RelativeDocumentMoniker": "CarSharingApp\\App.config",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\App.config",
+              "RelativeToolTip": "CarSharingApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T20:15:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:40:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "CarSharingApp\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\AdminWindow.xaml",
+              "RelativeToolTip": "CarSharingApp\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T21:39:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Message.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:03:05.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarType.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\CarType.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarType.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:01:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarModel.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:01:58.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CarBrand.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarBrand.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\CarBrand.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\CarBrand.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\CarBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:01:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Car.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:02:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:00:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Announcement.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Models\\Announcement.cs",
+              "RelativeToolTip": "CarSharingApp\\Models\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:03:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "CarSharingApp\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:00:52.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VerificationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\VerificationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CarSharingApp\\VerificationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yadib\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\final\\CarSharingApp\\CarSharingApp\\VerificationWindow.xaml.cs",
+              "RelativeToolTip": "CarSharingApp\\VerificationWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T21:13:15.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+main - основная ветка, содержит стабильную версию проекта
+
+develop - ветка разработки, куда будут мерджиться все изменения
+
+feature/[feature-name] - ветки для разработки отдельных функций:
+feature/user-auth
+feature/map-integration
+feature/car-management
+feature/rental-system
+feature/payment
+feature/admin-panel
+feature/support-chat
+
+bugfix/[bug-name] - ветки для исправления ошибок
