@@ -1,0 +1,26 @@
+# Файлы сборки и отладки
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Пакеты NuGet
+packages/
+*.nupkg
+
+# Конфиги с секретами (если есть)
+appsettings.json
+appsettings.*.json
+
+# Файлы Rider (если используется)
+.idea/
+
+# Прочие
+.DS_Store (для macOS)
+Thumbs.db (для Windows)
